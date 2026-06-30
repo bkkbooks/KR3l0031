@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3l0031/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十二
+  hash: sha256:b91c7627c34399fce720371900e7def4c0469982b792a8bd4a0a78b88d470d59
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3l0031_WYG_000-1a, image: WYG1036/WYG1036-0469a.png}
+body:
+  text: 澠水燕談録小說家類一雜事之屬提要臣等謹案澠水燕談録十卷舊本題宋齊國王闢之撰宋藝文志作王關之蓋闢關形近而誤通考引朝陳二家書目作王闢疑傳寫脫之字也書録解題稱其為治平四年進士讀書志稱其從仕四方與賢士大夫燕談有可取者輒記久而得三百六十餘事今考此書皆記紹聖以前雜事分十五類帝德十七條讜論十一條名臣五十條知人四條竒節十二條忠孝八條才識十二條髙逸二十條官制二十條貢舉二十一條先兆十七條歌咏十八條書畫八條事志三十二條雜録三十五條共二百八十五條與讀書志所載之數不合蓋此本為明商濬稗海所刻有所刪削故也所記質實可信多與史傳相出入其間如誰傳佳句到幽都詩乃蘇轍使遼時寄其兄軾之作而誤以為張舜民又如栁永以夤緣中官獻醉蓬萊詞為仁宗所斥而以為仁宗大悅之類雖間有舛訛正不以一眚掩耳乾隆四十三年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:d0d6ac729f4dfd4d6208348d15a37362bb06f501adf724d27a77e8da4b33e780
+metadata:
+  title: 澠水燕談錄
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:37:47.351564'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3l0031/KR3l0031_000.txt
+hash: sha256:f1e6bbf4362a60eecece6d65f2ba75c6f9be291d2f1e6f8ea09cde55e37c3317
